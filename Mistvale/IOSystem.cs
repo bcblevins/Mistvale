@@ -26,5 +26,12 @@
 			}
 			return choice;
 		}
-	}
+    public void waitForInput()
+    {
+        Console.WriteLine();
+        Console.WriteLine("Press enter to continue...");
+        Console.ReadLine();
+    }
+
+}
 

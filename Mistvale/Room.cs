@@ -2,6 +2,7 @@
 
 	public abstract class Room
 	{
+		protected IOSystem iOSystem = new IOSystem();
 		protected String name;
 		protected String description;
 

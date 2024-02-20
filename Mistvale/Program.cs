@@ -1,4 +1,4 @@
-﻿//TODO: Learn how to reference other classes - use CreateMenuTwo method in IOSystem
+﻿//TODO: Be able to update iventory from other classes.
 
 
 //Vars
@@ -9,6 +9,7 @@ Dictionary<String, int> inventory = new Dictionary<string, int>();
 
 //Rooms
 Market market = new Market();
+Home home = new Home();
 
 
 
@@ -31,7 +32,7 @@ Console.WriteLine(@"
 | \/ |   |   `--,   |    \  /  /--\  |     |____
 |    | __|__ \__/   |     \/  /    \ |____ |____
 ================================================");
-waitForInput();
+iOSystem.waitForInput();
 
 //Set up story
 Console.WriteLine(@"
@@ -53,7 +54,7 @@ thinking but this guy is the real deal. He gave me half upfront and everything. 
 nearby? Apparently there is some artifact there and the guards stationed there don't even know what they 
 have. All we have to do is sneak in and steal it.""");
 
-waitForInput();
+iOSystem.waitForInput();
 Console.WriteLine(@"
 
      ""...you want us to steal an artifact ...from a military fortress. Did I miss something? We haven't
@@ -111,17 +112,15 @@ command = iOSystem.CreateMenuTwo("Go to the market", "Go to sleep until Bolli is
 if (command == "1")
 {
     market.Enter();
+} else
+{
+    home.Enter();
 }
 
 //Start gameplay loop
 
 
-static void waitForInput()
-{
-    Console.WriteLine();
-    Console.WriteLine("Press enter to continue...");
-    Console.ReadLine();
-}
+
 
 //To make the console stay up after running
 Console.ReadLine();
