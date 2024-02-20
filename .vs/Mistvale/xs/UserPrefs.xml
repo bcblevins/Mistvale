@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Default">
-  <MonoDevelop.Ide.ItemProperties.Mistvale FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Mistvale PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mistvale/IOSystem.cs">
+    <Files>
+      <File FileName="Mistvale/Program.cs" Line="3" Column="1" />
+      <File FileName="Mistvale/Room.cs" Line="18" Column="41" />
+      <File FileName="Mistvale/IOSystem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mistvale" expanded="True">
+            <Node name="Mistvale">
+              <Node name="IOSystem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

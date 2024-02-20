@@ -1,0 +1,15 @@
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/bin/Debug/net7.0/Mistvale
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/bin/Debug/net7.0/Mistvale.deps.json
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/bin/Debug/net7.0/Mistvale.runtimeconfig.json
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/bin/Debug/net7.0/Mistvale.dll
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/bin/Debug/net7.0/Mistvale.pdb
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.csproj.AssemblyReference.cache
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.AssemblyInfoInputs.cache
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.AssemblyInfo.cs
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.csproj.CoreCompileInputs.cache
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.dll
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/refint/Mistvale.dll
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.pdb
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/Mistvale.genruntimeconfig.cache
+/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/Debug/net7.0/ref/Mistvale.dll
