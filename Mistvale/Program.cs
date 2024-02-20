@@ -7,6 +7,9 @@ String command;
 String name;
 Dictionary<String, int> inventory = new Dictionary<string, int>();
 
+//Rooms
+Market market = new Market();
+
 
 
 //Greet user, take name
@@ -69,6 +72,8 @@ and move on with our lives!""
 have a strong feeling that a terrible fate awaits you if you accept, but the guilt of letting Bolli down
 might be worse.
 ");
+
+//Agree to heist or quit
 command = iOSystem.CreateMenuTwo("Agree to the heist", "Tell Bolli he is off his rocker and you hope his inevitable stay in jail allows him the time to grow a brain");
 
 while (true)
@@ -101,6 +106,12 @@ neither does getting some sleep since it seems you won't be getting any tonight.
 
 inventory["Gold"] = 72;
 
+command = iOSystem.CreateMenuTwo("Go to the market", "Go to sleep until Bolli is ready");
+
+if (command == "1")
+{
+    market.Enter();
+}
 
 //Start gameplay loop
 

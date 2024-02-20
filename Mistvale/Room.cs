@@ -2,8 +2,8 @@
 
 	public abstract class Room
 	{
-		private String name;
-		private String description;
+		protected String name;
+		protected String description;
 
 		public void Enter()
 		{
@@ -11,7 +11,8 @@
 			Console.WriteLine(name);
             Console.WriteLine("------------------------------------------------");
 			Console.WriteLine(description);
-            Console.WriteLine("------------------------------------------------");
+			Console.WriteLine("------------------------------------------------");
+		    ProcessCommand();
         }
 
 		public abstract void ProcessCommand();
