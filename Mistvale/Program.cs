@@ -1,8 +1,8 @@
 ﻿//TODO: Learn how to reference other classes - use CreateMenuTwo method in IOSystem
 
 
-
 //Vars
+IOSystem iOSystem = new IOSystem();
 String command;
 String name;
 Dictionary<String, int> inventory = new Dictionary<string, int>();
@@ -63,20 +63,13 @@ and move on with our lives!""
 
      ""Bolli this is an incredibly awful idea. We are not doing this.""
 
-""I can't do this alone " + name + @", and don't forget: you still owe me.""
+     ""I can't do this alone " + name + @", and don't forget: you still owe me.""
 
      How could you forget? If not for Bolli you wouldn't still be around to hear his terrible ideas. You
 have a strong feeling that a terrible fate awaits you if you accept, but the guilt of letting Bolli down
 might be worse.
-
-Do you:
-     1. Agree to the heist
-     2. Tell Bolli he is off his rocker and you hope his inevitable stay in jail allows him the time to grow a brain
 ");
-command = Console.ReadLine();
-
-IOSystem 
-
+command = iOSystem.CreateMenuTwo("Agree to the heist", "Tell Bolli he is off his rocker and you hope his inevitable stay in jail allows him the time to grow a brain");
 
 while (true)
 {
@@ -95,6 +88,7 @@ while (true)
         command = Console.ReadLine();
     }
 }
+
 Console.WriteLine(@"
      ""I knew I could count on you! I have a lead I'd like to follow up on for a possible way into the
 fortress. In the meantime you may want to head into town to see if you can buy something to help us out.
@@ -105,8 +99,7 @@ Here is a little bit of the money he gave us. Let's meet back here at sundown fo
      And just like that Bolli was gone. Heading into town doesn't seem like such a bad idea. Then again,
 neither does getting some sleep since it seems you won't be getting any tonight.");
 
-inventory["Gold"] = 70;
-
+inventory["Gold"] = 72;
 
 
 //Start gameplay loop

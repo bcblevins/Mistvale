@@ -1,6 +1,5 @@
 ﻿using System;
-namespace Mistvale
-{
+
 	public abstract class Room
 	{
 		private String name;
@@ -17,5 +16,5 @@ namespace Mistvale
 
 		public abstract void ProcessCommand();
     }
-}
+
 

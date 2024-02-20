@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/Mistvale.csproj": {}
+    "C:\\Users\\Student\\workspace\\Personal Projects\\Mistvale-Adventure\\Mistvale\\Mistvale.csproj": {}
   },
   "projects": {
-    "/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/Mistvale.csproj": {
+    "C:\\Users\\Student\\workspace\\Personal Projects\\Mistvale-Adventure\\Mistvale\\Mistvale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/Mistvale.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\workspace\\Personal Projects\\Mistvale-Adventure\\Mistvale\\Mistvale.csproj",
         "projectName": "Mistvale",
-        "projectPath": "/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/Mistvale.csproj",
-        "packagesPath": "/Users/bblevins/.nuget/packages/",
-        "outputPath": "/Users/bblevins/Documents/myPrograms/C#/Mistvale/Mistvale/obj/",
+        "projectPath": "C:\\Users\\Student\\workspace\\Personal Projects\\Mistvale-Adventure\\Mistvale\\Mistvale.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\workspace\\Personal Projects\\Mistvale-Adventure\\Mistvale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bblevins/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

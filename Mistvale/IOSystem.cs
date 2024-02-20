@@ -1,6 +1,5 @@
 ﻿using System;
-namespace Mistvale
-{
+
 	public class IOSystem
 	{
 		public IOSystem()
@@ -28,5 +27,4 @@ namespace Mistvale
 			return choice;
 		}
 	}
-}
 
