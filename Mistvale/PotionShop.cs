@@ -27,12 +27,12 @@ justify turning any business away.
 
     It's about time to meet Bolli, so you begin the walk back to your home.";
     }
-    public override void ProcessCommand(Dictionary<string, int> inventory)
+    public override void ProcessCommand()
     {
-        inventory["Potion of Refraction"] = 1;
-        inventory["Gold"] = inventory["Gold"] - 70;
+        Player.inventory["Potion of Refraction"] = 1;
+        Player.inventory["Gold"] = Player.inventory["Gold"] - 70;
         IOSystem.WaitForInput();
-        home.Enter(inventory);
+        home.Enter();
     }
 }
 

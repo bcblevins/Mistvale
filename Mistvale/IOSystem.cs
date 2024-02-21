@@ -16,7 +16,7 @@ public class IOSystem
 
 		while (true)
 		{
-			if (choice != "1" || choice != "2")
+			if (choice != "1" && choice != "2")
 			{
 				Console.WriteLine("Thats not a valid option. Please select \"1\" or \"2\" ");
 				choice = Console.ReadLine();
@@ -25,15 +25,19 @@ public class IOSystem
 				break;
 			}
 		}
-		return choice;
+        Console.WriteLine();
+        Console.WriteLine("---------------------------------------------------------------------------------------------");
+        return choice;
 	}
 
 	public static void WaitForInput()
 	{
 		Console.WriteLine();
 		Console.WriteLine("Press enter to continue...");
-		Console.ReadLine();
-	}
+        Console.ReadLine();
+        Console.WriteLine();
+        Console.WriteLine("---------------------------------------------------------------------------------------------");
+    }
 
 }
 

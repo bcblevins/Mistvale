@@ -13,16 +13,16 @@ carpenters to clothiers. Two in particular stand out to you: the Potion Shop and
 Mystic Emporium, whatever that is.";
 	}
 
-	public override void ProcessCommand(Dictionary<String, int> inventory)
+	public override void ProcessCommand()
 	{
 		String choice = IOSystem.CreateMenuTwo("Go to the Potion Shop", "Visit the Mystic Emporium");
 		if (choice == "1")
 		{
-			potionShop.Enter(inventory);
+			potionShop.Enter();
 		}
 		else
 		{
-			potionShop.Enter(inventory);
+			mysticEmporium.Enter();
 		}
 	}
 }

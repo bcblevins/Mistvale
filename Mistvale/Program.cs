@@ -1,4 +1,4 @@
-﻿//TODO: Be able to update iventory from other classes.
+﻿//TODO: Fix choice not validating properly
 
 
 //Vars
@@ -104,16 +104,16 @@ Here is a little bit of the money he gave us. Let's meet back here at sundown fo
      And just like that Bolli was gone. Heading into town doesn't seem like such a bad idea. Then again,
 neither does getting some sleep since it seems you won't be getting any tonight.");
 
-inventory["Gold"] = 72;
+Player.inventory["Gold"] = 72;
 
 command = IOSystem.CreateMenuTwo("Go to the market", "Go to sleep until Bolli is ready");
 
 if (command == "1")
 {
-    market.Enter(inventory);
+    market.Enter();
 } else
 {
-    home.Enter(inventory);
+    home.Enter();
 }
 
 //Start gameplay loop

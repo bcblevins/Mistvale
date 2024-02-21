@@ -11,18 +11,20 @@ almost completely empty, save for a few rings and amulets on display behind the 
     ""Troubled one, you have set in motion a series of events that will change the fate of Mistvale.""
     He reaches under the counter and pulls out 2 silver rings, each with a small purple gemstone 
 affixed to its outer surface.
-    ""Take these, and give one to your friend. Now it is time for you to leave, it is getting dark.""
+    ""Take these, and give one to your friend. If you don't wear them you will never see him the same
+way again. Now it is time for you to leave, it is getting dark.""
     Before you can respond, he puts the rings in your hand and pushes you out the door.
 
     // +2 Rings of Muffling
 
-    That's odd, he didn't even try to ask for payment. Oh well I guess, its time to make the walk
-back home to meet Bolli.";
+    What was that about? He didn't even try to ask for payment. How did he know about Bolli, and what
+did he think you would find out about him? Oh well I guess, its time to make the walk back home to
+meet Bolli.";
     }
-    public override void ProcessCommand(Dictionary<string, int> inventory)
+    public override void ProcessCommand()
     {
-        inventory["Ring of Muffling"] = 2;
+        Player.inventory["Ring of Muffling"] = 2;
         IOSystem.WaitForInput();
-        home.Enter(inventory);
+        home.Enter();
     }
 }

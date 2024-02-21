@@ -5,17 +5,16 @@
 		protected String name;
 		protected String description;
 
-		public void Enter(Dictionary<String, int> inventory)
+		public void Enter()
 		{
-			Console.WriteLine("================================================");
+			Console.WriteLine("=============================================================================================");
 			Console.WriteLine(name);
-            Console.WriteLine("------------------------------------------------");
+            Console.WriteLine("---------------------------------------------------------------------------------------------");
 			Console.WriteLine(description);
-			Console.WriteLine("------------------------------------------------");
-		    ProcessCommand(inventory);
+		    ProcessCommand();
         }
 
-		public abstract void ProcessCommand(Dictionary<String, int> inventory);
+		public abstract void ProcessCommand();
     }
 
 
