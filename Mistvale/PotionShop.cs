@@ -17,17 +17,22 @@ memories?""
     Shes not wrong, but that's not why you are here.
     ""No thank you, I am looking for something to help me conceal mys-""
     Before the words finish escaping your lips, the woman thrusts a dark blue bottle into your hands.
-    ""That's 70 gold, and then I don't want to see you in my shop again.""
+    ""That's 60 gold, and then I don't want to see you in my shop again.""
     You hand the woman the gold she requested, then she promptly shoos you out of her shop. Something 
 tells you she has gotten into trouble for helping thieves before. In times like these, it is hard to 
-justify turning any business away. 
-    //+1 Potion of Refraction
+justify turning any business away.
+
+    // +1 Potion of Refraction
+    // -60 Gold
+
     It's about time to meet Bolli, so you begin the walk back to your home.";
     }
-    public void ProcessCommands()
+    public override void ProcessCommand(Dictionary<string, int> inventory)
     {
-        iOSystem.waitForInput();
-        home.Enter();
+        inventory["Potion of Refraction"] = 1;
+        inventory["Gold"] = inventory["Gold"] - 70;
+        IOSystem.WaitForInput();
+        home.Enter(inventory);
     }
 }
 

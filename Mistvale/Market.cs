@@ -2,7 +2,8 @@
 
 public class Market : Room
 {
-	PotionShop potionShop = new PotionShop();
+	PotionShop potionShop = new();
+	MysticEmporium mysticEmporium = new();
 	public Market()
 	{
 		this.name = "The Market";
@@ -12,16 +13,16 @@ carpenters to clothiers. Two in particular stand out to you: the Potion Shop and
 Mystic Emporium, whatever that is.";
 	}
 
-	public void ProcessCommands()
+	public override void ProcessCommand(Dictionary<String, int> inventory)
 	{
-		String choice = iOSystem.CreateMenuTwo("Go to the Potion Shop", "Visit the Mystic Emporium");
+		String choice = IOSystem.CreateMenuTwo("Go to the Potion Shop", "Visit the Mystic Emporium");
 		if (choice == "1")
 		{
-			potionShop.Enter();
+			potionShop.Enter(inventory);
 		}
 		else
 		{
-
+			potionShop.Enter(inventory);
 		}
 	}
 }

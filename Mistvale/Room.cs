@@ -2,21 +2,20 @@
 
 	public abstract class Room
 	{
-		protected IOSystem iOSystem = new IOSystem();
 		protected String name;
 		protected String description;
 
-		public void Enter()
+		public void Enter(Dictionary<String, int> inventory)
 		{
 			Console.WriteLine("================================================");
 			Console.WriteLine(name);
             Console.WriteLine("------------------------------------------------");
 			Console.WriteLine(description);
 			Console.WriteLine("------------------------------------------------");
-		    ProcessCommand();
+		    ProcessCommand(inventory);
         }
 
-		public abstract void ProcessCommand();
+		public abstract void ProcessCommand(Dictionary<String, int> inventory);
     }
 
 

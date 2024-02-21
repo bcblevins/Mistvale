@@ -1,24 +1,21 @@
 ﻿<Properties StartupConfiguration="{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Mistvale PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Mistvale/Program.cs">
     <Files>
-      <File FileName="Mistvale/Program.cs" Line="113" Column="20" />
-      <File FileName="Mistvale/Room.cs" Line="8" Column="22" />
-      <File FileName="Mistvale/IOSystem.cs" Line="1" Column="1" />
-      <File FileName="Mistvale/Home.cs" Line="10" Column="39" />
-      <File FileName="Mistvale/Market.cs" Line="7" Column="1" />
+      <File FileName="Mistvale/Program.cs" Line="123" Column="82" />
+      <File FileName="Mistvale/Room.cs" Line="9" Column="22" />
+      <File FileName="Mistvale/IOSystem.cs" />
+      <File FileName="Mistvale/Home.cs" Line="9" Column="5" />
+      <File FileName="Mistvale/Market.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Mistvale">
-            <Node name="Mistvale">
+          <Node name="Mistvale" expanded="True">
+            <Node name="Mistvale" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -26,4 +23,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
