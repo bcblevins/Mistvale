@@ -3,6 +3,7 @@
 
 public class FortressHalls : Room
 {
+    public Cellar cellar = new();
     public FortressHalls()
     {
         this.name = "The Fortress Halls";
@@ -36,7 +37,10 @@ says as he begins to quietly move across the room, you follow closely
 behind. Your path leads you right behind the cook, but the rings appear to 
 be doing their job. Your footsteps are eerily quiet.
     The cook never turns around, and you and Bolli successfully cross the 
-room without alerting the cook.");
+room without alerting the cook.
+    The whispers resurge with ferocity, beckoning you to continue down the 
+stairs. Your feet move of their own accord, surrendering to the unyielding 
+influence of the whispers.");
         } else
         {
             Console.WriteLine(@"
@@ -76,11 +80,8 @@ press on. Yielding to their persistent call, you find yourself descending the
 stairs, each step heavy with the weight of doubt and betrayal.
 ");
         }
-        Console.WriteLine(@"
-    The whispers resurge with ferocity, beckoning you to continue down the
-stairs.
-");
-
+        IOSystem.WaitForInput();
+        cellar.Enter();
     }
 }
 
