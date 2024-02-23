@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\cellar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\cellar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\fortresshalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\fortresshalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\mysticemporium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\mysticemporium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\iosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\iosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|c:\\users\\beau\\myprograms\\java\\mistvale-adventure\\mistvale\\potionshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E218FDB-5A78-42C4-9C64-B832DC7D4CDA}|Mistvale\\Mistvale.csproj|solutionrelative:mistvale\\potionshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cellar.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Cellar.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Cellar.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Cellar.cs",
+              "RelativeToolTip": "Mistvale\\Cellar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FortressHalls.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\FortressHalls.cs",
+              "RelativeDocumentMoniker": "Mistvale\\FortressHalls.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\FortressHalls.cs",
+              "RelativeToolTip": "Mistvale\\FortressHalls.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Cart.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Cart.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Cart.cs",
+              "RelativeToolTip": "Mistvale\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MysticEmporium.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\MysticEmporium.cs",
+              "RelativeDocumentMoniker": "Mistvale\\MysticEmporium.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\MysticEmporium.cs",
+              "RelativeToolTip": "Mistvale\\MysticEmporium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PotionShop.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\PotionShop.cs",
+              "RelativeDocumentMoniker": "Mistvale\\PotionShop.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\PotionShop.cs",
+              "RelativeToolTip": "Mistvale\\PotionShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Market.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Market.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Market.cs",
+              "RelativeToolTip": "Mistvale\\Market.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Home.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Home.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Home.cs",
+              "RelativeToolTip": "Mistvale\\Home.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Room.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Room.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Room.cs",
+              "RelativeToolTip": "Mistvale\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\IOSystem.cs",
+              "RelativeDocumentMoniker": "Mistvale\\IOSystem.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\IOSystem.cs",
+              "RelativeToolTip": "Mistvale\\IOSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Program.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Program.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Program.cs",
+              "RelativeToolTip": "Mistvale\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Player.cs",
+              "RelativeDocumentMoniker": "Mistvale\\Player.cs",
+              "ToolTip": "C:\\Users\\Beau\\myPrograms\\Java\\Mistvale-Adventure\\Mistvale\\Player.cs",
+              "RelativeToolTip": "Mistvale\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:35.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

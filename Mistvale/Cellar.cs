@@ -25,6 +25,10 @@ a comforting warmth, and the whispers cease.
     Just as you are about to celebrate, there is a loud crash and dust 
 pours from the ceiling. The walls threaten to buckle under the weight 
 they have been burdened with for far too long.
-    "
+    ";
+    }
+    public override void ProcessCommand()
+    {
+        throw new NotImplementedException();
     }
 }

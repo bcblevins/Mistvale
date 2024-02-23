@@ -8,7 +8,7 @@ public class Cart : Room
 	{
 		this.name = "Supply Cart";
 		this.description = @"
-	It is a long bumpy ride to the castle. You and Bolli have hidden yourselves
+	It is a long bumpy ride to the fortress. You and Bolli have hidden yourselves
 underneath some boxes and it is starting to get very uncomfortable, this is much
 more physical contact with Bolli than you would ever want.";
 

@@ -52,6 +52,7 @@ Bolli about the weird cryptic nature of your interaction with the shop owner.");
 		Console.WriteLine(@"
 	With all the necessary preparation complete, you and Bolli climb into the back
 of the cart.");
+		IOSystem.WaitForInput();
 		cart.Enter();
 
 	}
