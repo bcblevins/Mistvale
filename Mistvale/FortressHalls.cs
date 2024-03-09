@@ -4,6 +4,7 @@
 public class FortressHalls : Room
 {
     public Cellar cellar = new();
+    public CartEscape cartEscape = new();
     public FortressHalls()
     {
         this.name = "The Fortress Halls";
@@ -82,6 +83,37 @@ stairs, each step heavy with the weight of doubt and betrayal.
         }
         IOSystem.WaitForInput();
         cellar.Enter();
+        ReturnToHalls();
+    }
+    public void ReturnToHalls()
+    {
+        Console.WriteLine(@"
+    As you reach the top of the stairs, you begin to hear shouting as the
+crashes of stone hitting stone continue, the ground rumbling under your feet.
+The source of the smoke becomes apparent, the only exit from the kitchen is
+engulfed in flames.
+    Bolli runs over to the window located across the room, but stops just short.
+He is oddly still save for a trembling in his knees.
+    ""...what have we gotten ourselves in the middle of?""
+    When you reach the window, you look over the Misty Plains and are greeted
+with a sight that fills you with more questions than answers. A neatly organized
+army of shadowy figures have arranged themselves at a specific distance
+surrounding the fortress. Their numbers disappear over the horizon. Catapults
+line the front of the group, launching volley after volley of flaming rocks
+at the fortress.
+    The only way out of the fortress is a 100 foot drop onto solid ground.
+Not a viable escape. The reality begins to set in that you may be standing in
+your grave.");
+        IOSystem.WaitForInput();
+        Console.WriteLine(@"
+    Suddenly, the box you are holding throws itself open and a gust of wind
+launches towards the exit to the room, quenching the flames and opening an
+escape. You and Bolli stand there stunned for only a moment, before you both
+sprint towars the exit. ");
+        if (Player.isQuartermasterWaiting)
+        {
+            cartEscape.Enter();
+        }
     }
 }
 

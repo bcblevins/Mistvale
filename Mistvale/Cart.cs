@@ -72,7 +72,7 @@ unsettling coldness.
 	The quartermaster's shoulders slump as his hard exterior melts away. His eyes
 betray a gentle spirit crushed under the weight of lost hope.
 	""So be it."" the quartermaster says, before tossing a sack of gold to the guard.
-	The guard replaces the boxed and you feel the cart move again.");
+	The guard replaces the boxes and you feel the cart move again.");
 			IOSystem.WaitForInput();
 
             Console.WriteLine(@"

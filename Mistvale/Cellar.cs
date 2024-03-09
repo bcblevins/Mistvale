@@ -24,11 +24,11 @@ a comforting warmth, and the whispers cease.
     ""Bolli I found it!"" You lift the box out of the chest to show Bolli. 
     Just as you are about to celebrate, there is a loud crash and dust 
 pours from the ceiling. The walls threaten to buckle under the weight 
-they have been burdened with for far too long.
+they have been burdened with for far too long. You and Bolli exchange a
+look and then run to the stairs. As you make your way up out of the
+cellar, you begin to smell smoke.
     ";
+        IOSystem.WaitForInput();
     }
-    public override void ProcessCommand()
-    {
-        throw new NotImplementedException();
-    }
+    
 }

@@ -38,6 +38,11 @@ public class IOSystem
         Console.WriteLine();
         Console.WriteLine("---------------------------------------------------------------------------------------------");
     }
+	public static String PromptForInput(String message)
+	{
+		Console.WriteLine(message);
+		return Console.ReadLine();
+	}
 
 }
 
